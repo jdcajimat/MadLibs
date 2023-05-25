@@ -41,6 +41,7 @@
         android:fontFamily="serif-monospace"
         android:text="Dragon Slayer"
         android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#6A1F1F"
         android:textSize="34sp"
         android:textStyle="bold"
